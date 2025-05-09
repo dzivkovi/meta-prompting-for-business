@@ -1,0 +1,11 @@
+deep_crawl_strategy:
+  type: BFSDeepCrawlStrategy
+  max_depth: 2
+  include_external: false
+filter_chain:
+  type: FilterChain
+  filters:
+    - type: DomainFilter
+      allowed_domains: ["docs.anthropic.com"]
+    - type: URLPatternFilter
+      patterns: ["*anthropic.com/en/docs/build-with-claude/prompt-engineering*"]
