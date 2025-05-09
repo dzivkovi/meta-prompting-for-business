@@ -6,7 +6,7 @@ Think of it like this: you give the AI a smart 'master instruction' (the meta-pr
 
 ## Inspiration
 
-This repository is inspired by an idea shared by [Kieran Flanagan on LinkedIn](https://www.linkedin.com/posts/kieranjflanagan_you-can-instantly-turn-googles-new-65-page-activi/ty-7325866858614562817-3PWD/). He demonstrated how to take comprehensive prompt engineering guides (like Google's 65-page document or guides from OpenAI and Anthropic) and transform them into a practical library of marketing-specific prompts. The core concept is to use a meta-prompt to process a guide and extract key prompt types, providing both general and domain-specific examples in a structured format.
+This repository is inspired by an idea shared by [Kieran Flanagan on LinkedIn](https://www.linkedin.com/posts/kieranjflanagan_you-can-instantly-turn-googles-new-65-page-activity-7325866858614562817-3PWD/). He demonstrated how to take comprehensive prompt engineering guides (like Google's 65-page document or guides from OpenAI and Anthropic) and transform them into a practical library of marketing-specific prompts. The core concept is to use a meta-prompt to process a guide and extract key prompt types, providing both general and domain-specific examples in a structured format.
 
 ![Marketing Prompts](Marketing%20Example/Kieran.jpeg)
 
